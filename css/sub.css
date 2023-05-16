@@ -1,0 +1,14 @@
+@import url(reset.css);
+
+body{background: linear-gradient(90.18deg, rgba(251, 194, 235, 0.57)0.14%,rgba(166, 1193, 238, 0.53)99.83%);}
+
+/* header */
+.character{width: 30vw;height: 55vh;background: #F9DDD8;border-radius: 50%;border: 2px solid #fff;padding: 15px;}
+
+/* nav */
+.navbar ul li:nth-child(1){background: #C982BC;border-radius: 30%;width: 6.0vw;padding: 10px;text-align: center;}
+.navbar ul li i{padding-left: 5px;}
+.navbar ul li:nth-child(2){background: #E2D3F4;border-radius: 30%;width: 6.0vw;padding: 10px;text-align: center;}
+.navbar ul li:nth-child(3){background: #E2D3F4;border-radius: 30%;width: 6.0vw;padding: 10px;text-align: center;}
+
+/* container */
